@@ -201,10 +201,7 @@ button:hover {
   }
 
   .attribution {
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    transform: translate(-50%);
+    padding-top: 0;
   }
 
   input {
@@ -233,12 +230,12 @@ button:hover {
 
   .brand-article {
     line-height: 70px;
-    padding-top: 100px;
+    padding-top: 50px;
   }
 
   .brand-article h1 {
     font-size: 4rem;
-    letter-spacing: 17px;
+    letter-spacing: 15px;
   }
 
   .brand-article span p {
@@ -301,6 +298,13 @@ button:hover {
   .btn img {
     width: 16px;
     height: 24px;
+  }
+
+  .attribution {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%);
   }
 }
 
