@@ -134,6 +134,7 @@ button:hover {
 .error-text {
   padding-top: 15px;
   padding-left: 25px;
+  display: none;
 }
 
 @media only screen and (min-width: 1000px) {
